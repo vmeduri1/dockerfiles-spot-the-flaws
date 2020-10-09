@@ -1,8 +1,7 @@
 # Dockerfiles - Spot The Flaws!
 
-Check out the `Dockerfile` for a Node app in the 'starter' folder. There are 
-some problems with it. To say the least, it has errors trying run the 
-application!
+Check out the `Dockerfile` for a Node app in this folder. There are some
+problems with it. To say the least, it has errors trying run the application!
 
 ## Before you begin
 
